@@ -7,7 +7,7 @@
 
 ## BCD TO EXCESS3.ms14
 
-##  to Excess6.ms14
+## BCD to Excess6.ms14
 
 ## Full Adder using IC's.ms14
 
